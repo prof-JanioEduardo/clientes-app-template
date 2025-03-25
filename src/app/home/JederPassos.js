@@ -7,5 +7,4 @@ class JederPassos {
         console.log(meu.nome);
     }
 }
-
 export default JederPassos;
